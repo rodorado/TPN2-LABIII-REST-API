@@ -16,4 +16,4 @@ Proyecto subido a RailWay:
 https://tpn2-labiii-rest-api-production.up.railway.app
 
 . Para ver "Usuarios", agregue /api/usuarios  al final.
-. Para ver "Productos, agrefue /api/productos al final.
+. Para ver "Productos, agregue /api/productos al final.
